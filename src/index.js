@@ -1,7 +1,7 @@
 import $ from 'jquery'
 import 'animsition'
 
-$(document).ready(function($) {
+$(document).ready(function() {
 
   $('.animsition').animsition({
     inClass : 'fade-in-left',
