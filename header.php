@@ -19,13 +19,18 @@
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class() ?>>
-		<div class="top" class="clearfix">
-			<a href="<?php echo esc_url(home_url('/')); ?>"><img class="logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png"></img></a>
+		<div class="top clearfix">
+			<a class="logo" href="<?php echo esc_url(home_url('/')); ?>">
+				<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/logo.png">
+			</img></a>
 			<div class="portrait"></div>
-			<div class="menu"><?php if(!function_exists('dynamic_sidebar') || dynamic_sidebar('Menu')) {} ?></div>
+			<div class="menu">
+				<?php if(!function_exists('dynamic_sidebar') || dynamic_sidebar('Menu')) {} ?>
+			</div>
 			<div class="border"></div>
 			<div class="privacy">
-				<a href="<?php echo esc_url(home_url('/impressum')); ?>">Impressum</a> | <a href="<?php echo esc_url(home_url('/datenschutz')); ?>">Datenschutz</a>
+				<a href="<?php echo esc_url(home_url('/impressum')); ?>">Impressum</a>
+				| <a href="<?php echo esc_url(home_url('/datenschutz')); ?>">Datenschutz</a>
 			</div>
 		</div>
-		<div class="content" class="animsition">
+		<div class="content animsition">

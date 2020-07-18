@@ -63,7 +63,7 @@ a {
 
 .top {
   position: relative;
-  background-image: url(images/code.png), url(images/crossword.png);
+  background-image: url(../images/code.png), url(../images/crossword.png);
   background-position: -30px 100px;
   background-repeat: no-repeat, repeat;
   box-shadow: 0 0 20px 0 rgba(50, 50, 50, 0.6);
@@ -72,8 +72,12 @@ a {
 .logo {
   position: absolute;
   width: 400px;
-  margin-top: 50px;
+  top: 50px;
   transform: rotate(-10deg);
+
+  img {
+    width: 100%;
+  }
 }
 
 .menu {
