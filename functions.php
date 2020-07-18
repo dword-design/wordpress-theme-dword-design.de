@@ -1,8 +1,7 @@
 <?php
 
 	function jquery_enqueue() {
-		wp_enqueue_script('jquery');
-    wp_enqueue_script('animsition.js', get_template_directory_uri() . '/node_modules/animsition/dist/js/animsition.js', array('jquery'), '1.0.0', true);
+		wp_enqueue_script('index.js', get_template_directory_uri() . '/dist/index.js', '1.0.0', true);
   }
 	add_action("wp_enqueue_scripts", "jquery_enqueue");
 

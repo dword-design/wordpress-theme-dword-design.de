@@ -4,6 +4,7 @@
 /.cz.json
 /.editorconfig
 /.env.json
+/.eslintrc.json
 /.huskyrc.json
 /.nyc_output
 /.releaserc.json

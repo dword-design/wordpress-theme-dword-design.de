@@ -61,7 +61,7 @@ a {
   }
 }
 
-#top {
+.top {
   position: relative;
   background-image: url(images/code.png), url(images/crossword.png);
   background-position: -30px 100px;
@@ -69,14 +69,14 @@ a {
   box-shadow: 0 0 20px 0 rgba(50, 50, 50, 0.6);
 }
 
-#logo {
+.logo {
   position: absolute;
   width: 400px;
   margin-top: 50px;
   transform: rotate(-10deg);
 }
 
-#menu {
+.menu {
   position: relative;
   float: right;
   margin-top: 50px;
@@ -115,18 +115,18 @@ a {
   }
 }
 
-#portrait {
+.portrait {
   display: block;
   float: right;
   width: 534px;
   height: 350px;
-  background-image: url(images/portrait.png);
+  background-image: url(../images/portrait.png);
   background-position: top right;
   background-size: auto 350px;
   background-repeat: no-repeat;
 }
 
-#border {
+.border {
   display: block;
   float: right;
   clear: both;
@@ -135,7 +135,7 @@ a {
   background: linear-gradient(to left, gray, white);
 }
 
-#privacy {
+.privacy {
   position: absolute;
   bottom: -50px;
   z-index: 1;
@@ -185,7 +185,7 @@ form {
 }
 
 @media screen and (max-width: 1140px) {
-  #menu {
+  .menu {
     left: 200px;
     li a {
       left: 0 !important;

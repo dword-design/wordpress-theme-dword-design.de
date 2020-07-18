@@ -1,7 +1,8 @@
 {
-  "name": "main-theme",
+  "name": "@dword-design/wordpress-theme-dword-design-de",
   "version": "1.0.0",
   "description": "",
+  "repository": "dword-design/wordpress-theme-dword-design.de",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@dword-design.de>",
   "files": [
@@ -18,11 +19,12 @@
   "dependencies": {
     "animsition": "^4.0.2",
     "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
     "reset-css": "^2.2.1"
   },
   "devDependencies": {
     "@dword-design/base": "^6.24.1",
-    "@dword-design/base-config-wordpress-theme": "^1.0.0"
+    "@dword-design/base-config-wordpress-theme": "^1.1.0"
   },
   "publishConfig": {
     "access": "public"
