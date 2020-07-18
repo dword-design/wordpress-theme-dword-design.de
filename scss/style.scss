@@ -1,4 +1,4 @@
-@import "~reset-css/reset.scss";
+@import "~reset-css/reset.css";
 @import "~font-awesome/scss/font-awesome.scss";
 @import "~animsition/dist/css/animsition";
 @import "open-sans";
@@ -71,8 +71,8 @@ a {
 
 .logo {
   position: absolute;
-  width: 400px;
   top: 50px;
+  width: 400px;
   transform: rotate(-10deg);
 
   img {
@@ -83,7 +83,7 @@ a {
 .menu {
   position: relative;
   float: right;
-  margin-top: 50px;
+  margin-top: 20px;
 
   li a {
     position: relative;
@@ -190,7 +190,7 @@ form {
 
 @media screen and (max-width: 1140px) {
   .menu {
-    left: 200px;
+    left: 90px;
     li a {
       left: 0 !important;
     }

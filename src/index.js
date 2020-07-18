@@ -1,23 +1,24 @@
-import $ from 'jquery'
 import 'animsition'
 
-$(document).ready(function() {
+import $ from 'jquery'
 
+$(document).ready(function () {
   $('.animsition').animsition({
-    inClass : 'fade-in-left',
-    outClass : 'fade-out-right',
-    inDuration : 1500,
-    outDuration : 800,
-    loading : true,
-    linkElement: '.animsition-link'
-  });
-
-  $('.gallery-item').hover(function() {
-    var caption = $(this).find('.gallery-caption');
-    caption.css('transform', 'scaleY(1)');
-  },
-  function() {
-    var caption = $(this).find('.gallery-caption');
-    caption.css('transform', 'scaleY(0)');
-  });
-});
+    inClass: 'fade-in-left',
+    inDuration: 1500,
+    linkElement: '.animsition-link',
+    loading: true,
+    outClass: 'fade-out-right',
+    outDuration: 800,
+  })
+  $('.gallery-item').hover(
+    function () {
+      const caption = $(this).find('.gallery-caption')
+      caption.css('transform', 'scaleY(1)')
+    },
+    function () {
+      const caption = $(this).find('.gallery-caption')
+      caption.css('transform', 'scaleY(0)')
+    }
+  )
+})
