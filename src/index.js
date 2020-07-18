@@ -1,4 +1,4 @@
-import 'jquery'
+import $ from 'jquery'
 import 'animsition'
 
 $(document).ready(function($) {
