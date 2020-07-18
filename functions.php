@@ -1,7 +1,7 @@
 <?php
 
 	function jquery_enqueue() {
-		wp_enqueue_script('index.js', get_template_directory_uri() . '/dist/index.js', '1.0.0', true);
+		wp_enqueue_script('index.js', get_template_directory_uri() . '/dist/index.js', true);
   }
 	add_action("wp_enqueue_scripts", "jquery_enqueue");
 
