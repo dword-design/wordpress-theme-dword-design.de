@@ -1,9 +1,9 @@
 <!-- TITLE/ -->
-# main-theme
+# @dword-design/wordpress-theme-dword-design-de
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/main-theme.svg)](https://npmjs.org/package/main-theme)
+[![NPM version](https://img.shields.io/npm/v/@dword-design/wordpress-theme-dword-design-de.svg)](https://npmjs.org/package/@dword-design/wordpress-theme-dword-design-de)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://img.shields.io/github/workflow/status/dword-design/wordpress-theme-dword-design.de/build)](https://github.com/dword-design/wordpress-theme-dword-design.de/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/wordpress-theme-dword-design.de)](https://coveralls.io/github/dword-design/wordpress-theme-dword-design.de)
@@ -22,10 +22,10 @@
 
 ```bash
 # NPM
-$ npm install main-theme
+$ npm install @dword-design/wordpress-theme-dword-design-de
 
 # Yarn
-$ yarn add main-theme
+$ yarn add @dword-design/wordpress-theme-dword-design-de
 ```
 <!-- /INSTALL -->
 
