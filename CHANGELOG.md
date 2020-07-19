@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.1...v1.0.2) (2020-07-19)
+
+
+### Bug Fixes
+
+* fix ([310d0a7](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/310d0a7e7e91b61d0d9cb62c3a96d8db81edfee3))
+
 ## [1.0.1](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.0...v1.0.1) (2020-07-18)
 
 
