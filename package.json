@@ -19,7 +19,7 @@
   "dependencies": {
     "animsition": "^4.0.2",
     "jquery": "^3.5.1",
-    "reset-css": "^2.2.1"
+    "reset-css": "^5.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^6.24.1",
