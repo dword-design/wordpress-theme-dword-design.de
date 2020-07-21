@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.2...v1.0.3) (2020-07-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency reset-css to v5 ([7c2ca9f](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/7c2ca9f19b4ca78e73f95aba7fd6b0ddbc079a27))
+
 ## [1.0.2](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.1...v1.0.2) (2020-07-19)
 
 
