@@ -2,7 +2,7 @@ import 'animsition'
 
 import $ from 'jquery'
 
-$(document).ready(function () {
+$(document).ready(() => {
   $('.animsition').animsition({
     inClass: 'fade-in-left',
     inDuration: 1500,
