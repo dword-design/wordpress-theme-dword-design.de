@@ -1,3 +1,11 @@
+## [1.0.13](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.12...v1.0.13) (2021-04-22)
+
+
+### Bug Fixes
+
+* update config files ([3bd9835](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/3bd9835d3ceaca05b3f16f191f78ef62ce51e85e))
+* updated package.json[description] ([#20](https://github.com/dword-design/wordpress-theme-dword-design.de/issues/20)) ([5c5414c](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/5c5414c0b5a93882bb4b26b9a3dc9cc4f7a9450b))
+
 ## [1.0.12](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.11...v1.0.12) (2021-04-21)
 
 
