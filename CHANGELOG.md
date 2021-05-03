@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.14...v1.0.15) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#24](https://github.com/dword-design/wordpress-theme-dword-design.de/issues/24)) ([1ced3ec](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/1ced3ec93d88d87174738ab2ff880479da68d66e))
+
 ## [1.0.14](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.13...v1.0.14) (2021-04-28)
 
 
