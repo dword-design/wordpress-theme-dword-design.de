@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.15...v1.0.16) (2021-05-28)
+
+
+### Bug Fixes
+
+* update config files ([fe7dafc](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/fe7dafc5a9671f54d5d7b35445c2a64e5077409e))
+
 ## [1.0.15](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.14...v1.0.15) (2021-05-03)
 
 
