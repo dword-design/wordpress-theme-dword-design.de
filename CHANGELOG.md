@@ -1,3 +1,10 @@
+## [1.0.23](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.22...v1.0.23) (2021-08-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([2c0143c](https://github.com/dword-design/wordpress-theme-dword-design.de/commit/2c0143c5a0ade53475f8587600480d537c75c2c5))
+
 ## [1.0.22](https://github.com/dword-design/wordpress-theme-dword-design.de/compare/v1.0.21...v1.0.22) (2021-07-20)
 
 
