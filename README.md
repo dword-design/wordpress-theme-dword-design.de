@@ -1,5 +1,5 @@
 <!-- TITLE/ -->
-# @dword-design/wordpress-theme-dword-design-de
+# @dword-design/wordpress-theme-dword-design.de
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
@@ -53,10 +53,10 @@
 
 ```bash
 # npm
-$ npm install @dword-design/wordpress-theme-dword-design-de
+$ npm install @dword-design/wordpress-theme-dword-design.de
 
 # Yarn
-$ yarn add @dword-design/wordpress-theme-dword-design-de
+$ yarn add @dword-design/wordpress-theme-dword-design.de
 ```
 <!-- /INSTALL -->
 
